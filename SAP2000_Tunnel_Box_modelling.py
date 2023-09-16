@@ -21,7 +21,7 @@ section_type="Test"
 
 
 
-Parent_folder=r"C:\Users\10022767\Surbana Jurong Private Limited(1)\Johanna Enriquez - C-SG-003399_CAG Intra Tunnel\Calculations\CST"
+Parent_folder=r"XXX"
 # path for tunnel excel calculation
 loads_cal_path=Parent_folder+"\Section "+section_type+"\Load Calculation and Spring-Section "+section_type+".xlsx"
 load_combi_summary_path=Parent_folder+"\Model information\Load combinatios CST.xlsx"

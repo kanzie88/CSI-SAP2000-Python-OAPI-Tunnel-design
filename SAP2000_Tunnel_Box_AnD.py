@@ -11,7 +11,7 @@ Created on Fri Aug 11 14:03:35 2023
 # USERDEFINED(to update to your local machine paths)
 # indicate section type and internal pile joint label else put None if none
 
-Parent_folder=r"C:\Users\10022767\Surbana Jurong Private Limited(1)\Johanna Enriquez - C-SG-003399_CAG Intra Tunnel\Calculations\CST"
+Parent_folder=r"xxxxx"
 spacing=6 #spacing of piles
 # ================================================================================================================================
 
