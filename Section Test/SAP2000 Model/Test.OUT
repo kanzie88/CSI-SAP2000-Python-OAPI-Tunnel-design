@@ -1,0 +1,17 @@
+
+
+ SAP2000 v24.2.0 Plus 64-bit (Analysis Build 9931/64)                           
+ File: C:\Users\809128\Surbana...iquez - CST\Section Test\SAP2000 Model\Test.OUT
+                                                                     
+                                                                       
+
+ D I S P L A C E M E N T   D E G R E E S   O F   F R E E D O M
+
+         (A) = Active DOF, equilibrium equation
+         (-) = Restrained DOF, reaction computed
+         (+) = Constrained DOF
+         (>) = External substructure DOF
+         ( ) = Null DOF
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+       1 TO      48    A       A       A    
