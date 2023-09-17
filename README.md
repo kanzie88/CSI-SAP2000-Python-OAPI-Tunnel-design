@@ -1,6 +1,6 @@
 # CSI-SAP2000-Python-OAPI-Tunnel-design
 INSTRUCTIONS:
-Use SAP2000_Tunnel_Box_modelling.py for automating your tunnel box creation and design in CSI SAP2000 (customized for LTA CDC 2019 load definations)
+Use "SAP2000_Tunnel_Box_modelling.py" for automating your tunnel box creation and design in CSI SAP2000 (customized for LTA CDC 2019 load definations)
 Functions of the script:
 SAP2000_Tunnel_Box_modelling.py: 
 Automated FEM modelling of Box tunnel:
@@ -16,3 +16,11 @@ Steps:
 2) Update load combinations and load cases in Load_cases_combi.xlsx in sheet [Load summary(updated)] (those in yellow boxes)
 3) Open SAP2000_Tunnel_Box_modelling.py and run script to create SAP2000 model and analyse
 
+
+#Use "SAP2000_Tunnel_Box_Modules/Getting_aggreagted_loads_sap2000_CST2.py" to aggregate the four critical cases for RC frame design purpose:
+1) 'Max Mz' and correpsonding Fx
+2) 'Min Mz' and correpsonding Fx
+3) 'Max Fx' and correpsonding Mz
+4) 'Min Fx' and correpsonding Mz
+
+ output is a dataframe of aggregated frames forces
