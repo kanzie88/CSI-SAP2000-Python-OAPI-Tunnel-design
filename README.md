@@ -17,7 +17,7 @@ Steps:
 3) Open SAP2000_Tunnel_Box_modelling.py and run script to create SAP2000 model and analyse
 
 
-#Use "SAP2000_Tunnel_Box_Modules/Getting_aggreagted_loads_sap2000_CST2.py" to aggregate the four critical cases for RC frame design purpose:
+#Use "SAP2000_Tunnel_Box_Modules/Getting_aggreagted_loads.py" to aggregate the four critical cases for RC frame design purpose:
 1) 'Max Mz' and correpsonding Fx
 2) 'Min Mz' and correpsonding Fx
 3) 'Max Fx' and correpsonding Mz
