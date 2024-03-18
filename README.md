@@ -17,7 +17,7 @@ Steps:
 <<<<<<< Updated upstream
 3) Open SAP2000_Tunnel_Box_modelling.py and run script to create SAP2000 model and analyse
 =======
-3) Open SAP2000_Tunnel_Box_modelling.py and run script to create and run model
+3) Open SAP2000_Tunnel_Box_AnD.py and run script to create to analyze model, and design elements
 >>>>>>> Stashed changes
 
 
