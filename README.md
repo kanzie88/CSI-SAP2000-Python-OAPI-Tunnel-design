@@ -28,3 +28,6 @@ Steps:
 4) 'Min Fx' and correpsonding Mz
 
  output is a dataframe of aggregated frames forces
+
+
+![alt text](1694856378451.jpeg)
